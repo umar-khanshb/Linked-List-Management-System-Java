@@ -1,0 +1,25 @@
+# Build output (javac and Maven)
+out/
+out-test/
+target/
+*.class
+*.jar
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp

@@ -1,0 +1,50 @@
+=== SinglyLinkedList ===
+PASS  S empty list: display, size, search, max/min/middle
+PASS  S insert into empty list (beginning and end)
+PASS  S insert at beginning and end keeps order
+PASS  S insert at position: first, middle, last valid
+PASS  S insert at position on empty list (position 1 is valid)
+PASS  S insert at invalid positions throws and leaves list unchanged
+PASS  S insert after a node (middle, last, missing, empty)
+PASS  S insert before a node (head, middle, missing, empty)
+PASS  S insert after/before uses the FIRST matching node
+PASS  S delete from beginning (multi, single, empty)
+PASS  S delete from end (multi, single, empty)
+PASS  S delete from position: first, middle, last, invalid, empty
+PASS  S delete by value: head, middle, last, missing, duplicates, empty
+PASS  S search finds first position and reports missing
+PASS  S update existing, missing, and first occurrence only
+PASS  S max/min with negatives, zero and duplicates
+PASS  S middle element: odd, even (second middle), single
+PASS  S reverse: empty, single, multi, twice returns original
+PASS  S sort: empty, single, example, duplicates, negatives, sorted, descending
+PASS  S remove duplicates: none, many, all same, empty, single
+PASS  S zero and negative values are stored correctly
+PASS  S size counter stays correct after a mixed sequence
+
+=== DoublyLinkedList ===
+PASS  D empty list: display both ways, size, search, max/min/middle
+PASS  D insert into empty list sets both head and tail
+PASS  D insert at beginning/end: forward and backward agree
+PASS  D display format matches the specification
+PASS  D insert at position: first, middle (both halves), last valid
+PASS  D insert at position on empty list
+PASS  D invalid positions throw and leave list unchanged
+PASS  D insert after a node (middle, tail, missing, empty)
+PASS  D insert before a node (head, middle, missing, empty)
+PASS  D delete from beginning: head/tail stay correct
+PASS  D delete from end: head/tail stay correct
+PASS  D delete from position: first, middle, last, empty
+PASS  D delete by value: head, middle, tail, missing, duplicates, empty
+PASS  D search and update
+PASS  D max/min with negatives and zero
+PASS  D middle element: odd, even (second middle), single
+PASS  D reverse: empty, single, multi; head/tail swapped; both directions agree
+PASS  D sort: empty, single, example, duplicates, negatives; both directions agree
+PASS  D remove duplicates: none, many, all same, head/tail duplicates
+PASS  D head and tail correct after every kind of deletion
+PASS  D size counter stays correct after a mixed sequence
+PASS  D randomized stress test keeps the list consistent
+
+Passed: 44   Failed: 0   Total: 44
+ALL TESTS PASSED
