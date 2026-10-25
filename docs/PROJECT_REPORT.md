@@ -2,17 +2,17 @@
 
 ## Project Report
 
-| Field                   | Details                                         |
-| ----------------------- | ----------------------------------------------- |
-| Project title           | Linked List Management System                   |
-| Student name            | Umar Khan                                       |
-| Roll number / System ID | 2025292151                                      |
-| Branch and year         | B.Tech Computer Science & Engineering, 2nd Year |
-| Subject                 | Data Structures and Algorithms (DSA)            |
-| Institute               | Sharda University                               |
-| Instructor              | Aniruddha Sir                                   |
-| Submission date         | 25/10/2026                                      |
-| GitHub repository       | [Repository URL after publishing]               |
+| Field                   | Details                                                            |
+| ----------------------- | ------------------------------------------------------------------ |
+| Project title           | Linked List Management System                                      |
+| Student name            | Umar Khan                                                          |
+| Roll number / System ID | 2025292151                                                         |
+| Branch and year         | B.Tech Computer Science & Engineering, 2nd Year                    |
+| Subject                 | Data Structures and Algorithms (DSA)                               |
+| Institute               | Sharda University                                                  |
+| Instructor              | Aniruddha Sir                                                      |
+| Submission date         | 25/10/2026                                                         |
+| GitHub repository       | https://github.com/umar-khanshb/Linked-List-Management-System-Java |
 
 ---
 

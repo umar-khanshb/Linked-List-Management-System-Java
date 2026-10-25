@@ -2,7 +2,7 @@
 
 A menu-driven Java console application that implements a **Singly Linked List** and a **Doubly Linked List** from scratch, with a side-by-side comparison of the two. Built as a second-year B.Tech CSE Data Structures and Algorithms (DSA) mini project.
 
-> Author: **[Umar Khan]** | Roll No / System ID: **[2025292151]** | Course: **[B.Tech CSE]** | Institute: **[Sharda University]**
+> Author: **Umar Khan** | Roll No / System ID: **2025292151** | Course: **B.Tech CSE** | Institute: **Sharda University**
 
 ---
 
